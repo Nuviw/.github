@@ -1,4 +1,5 @@
-![Nuviw Logo](assets/logo.png) # Nuviw
+![Nuviw Logo](assets/logo.jpeg) 
+# Nuviw
 
 **Nuviw** is an AI-powered platform that lets anyone create and publish professional websites with unprecedented speed and simplicity.  
 **Think it. Type it. Share it.**
