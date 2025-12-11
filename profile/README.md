@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Nuviw Logo" width="180">
+  <img src="../assets/logo.png" alt="Nuviw Logo" width="180">
 </div>
 
 # Nuviw
